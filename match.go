@@ -2,7 +2,7 @@ package matcher
 
 import (
 	"errors"
-	"github.com/changhoi/matcher/internal"
+	"github.com/byjayce/matcher/internal"
 )
 
 type Pair[Proposer, Recipient any] struct {
